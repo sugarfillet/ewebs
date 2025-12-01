@@ -1,0 +1,5 @@
+{
+  "name": "Copy of React Emacs",
+  "description": "A browser-based text editor inspired by Emacs, featuring buffers, key chords (C-x C-f), and integrated Gemini AI commands (M-x ask-gemini).",
+  "requestFramePermissions": []
+}
